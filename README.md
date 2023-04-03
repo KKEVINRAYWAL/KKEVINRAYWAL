@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I write about about Data Engineering, Analytics engineering, and Data Analysis
+## Hi there 👋
+      #### I write about about Data Engineering, Analytics engineering, and Data Analysis
 
 - 🔭 I’m currently Learning and Mastering Batch_processing and Stream Processing 
 - 🌱 I’m currently learning dbt, Spark, Airflow, Debezium,  
@@ -7,5 +7,6 @@
 - 📫 How to reach me: [Click here to visit my LinkdIn](linkedin.com/in/rono-kelvin-6aa007187)
 
 
+### Languages and Tools
 
-
+![KKEVINRAYWAL's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KKEVINRAYWAL&layout=compact)
