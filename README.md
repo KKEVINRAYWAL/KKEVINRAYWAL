@@ -23,6 +23,9 @@
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 <img align="left" alt="Apache Airflow" width="26px" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?version=1&modificationDate=1591901817000&api=v2" />
+
+ <br />
+ 
 <img align="left" alt="Apache Spark" width="26px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="VS Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
@@ -35,7 +38,22 @@
 <img align="left" alt="Google Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" />
 <img align="left" alt="scikit-learn" width="26px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"/>
-
+<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
+ <img align="left" alt="Power BI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />
+ 
+ <br />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ![KKEVINRAYWAL's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KKEVINRAYWAL&layout=compact)
 
