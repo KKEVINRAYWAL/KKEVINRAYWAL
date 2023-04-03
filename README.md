@@ -11,6 +11,7 @@
 
 
 ### Languages and Tools
+![KKEVINRAYWAL's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KKEVINRAYWAL&layout=compact)
 
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -55,7 +56,7 @@
  
  
 
-![KKEVINRAYWAL's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KKEVINRAYWAL&layout=compact)
+
 
 
 
