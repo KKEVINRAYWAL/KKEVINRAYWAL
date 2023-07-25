@@ -1,7 +1,7 @@
 ## Hi there 👋
 
       
-### I write about about Data Engineering, Analytics engineering, and Data Analysis
+### I write about about Data Engineering, Analytics engineering, Data Analysis, and MLOPS
 
 - 🔭 I’m currently Learning and Mastering Batch_processing and Stream Processing 
 - 🌱 I’m currently learning dbt, Spark, Airflow, Debezium,  
